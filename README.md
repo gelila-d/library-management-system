@@ -5,22 +5,22 @@ return  and displaying book records.
 the system has two users : librarians and normal users.
 
  __features of the librarian__
-display all books
-2.barrow book
-3.view barrow records
-4.return book
-5.search book
-6.add book
-7.remove book
-8.exit and save
+-display all books
+-barrow book
+-view barrow records
+-return book
+-search book
+-add book
+-remove book
+-exit and save
 
 __features of normal users__
-1.display all books 
-2.barrow book
-3.view barrow records
-4.return book
-5.search book
-6.exit
+-display all books 
+-barrow book
+-view barrow records
+-return book
+-search book
+-exit
 
 
 __Technology used__
